@@ -1,0 +1,28 @@
+{
+  "name": "basacamp",
+  "version": "1.0.0",
+  "description": "a project management application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbazXcode/base-camp.git"
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "creation"
+  ],
+  "author": "Arbaz Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbazXcode/base-camp/issues"
+  },
+  "homepage": "https://github.com/arbazXcode/base-camp#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
